@@ -1,2 +1,2 @@
-# Noble
-ALX Projects 2023
+# alx-pre_course
+I'm now a ALX Student, this is my first repository as a full-stack engineer
